@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "C2L53zSPMkUsMsDXc4xxUafdv7cWRIIbU6/X3aCPXFFZWFJYXoiRbha3jieYp1VTVobisRnFxO7TfHbHXy8WJw==",
+  "success": true,
+  "projectFilePath": "/Users/vyvooz/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/vyvooz/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/vyvooz/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/vyvooz/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.24/microsoft.netcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
+    "/Users/vyvooz/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.24/microsoft.aspnetcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
+    "/Users/vyvooz/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.24/microsoft.netcore.app.crossgen2.osx-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
